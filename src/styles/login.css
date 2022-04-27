@@ -1,0 +1,47 @@
+.loginbody {
+    text-align: center;
+}
+
+.heading {
+    font-size: 32px;
+    margin-top: 72px;
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+
+.subtext {
+    margin-top: 10px;
+  
+}
+
+.loginbody form {
+    margin-top: 6%;
+}
+
+.loginbody form label {
+    text-align: left !important;
+    color: rgb(22, 23, 23);
+    font-size: 14px;
+    margin-right: 11%;
+    margin-bottom: 4px;
+}
+.loginbody form input {
+    width: 248px;
+    height: 40px;
+    margin-bottom: 24px;
+    margin-top: 4px;
+    padding-left: 4px;
+}
+.loginbody form input:focus {
+    padding-left: 8px;
+    border: 1px rgb(85, 4, 162) solid;
+    background-color: none;
+}
+.loginbody form .sub {
+    width: 256px;
+    height: 44px;
+    background-color: rgb(85, 4, 162);
+    color: white;
+    border: none;
+    border-radius: 2px;
+}
